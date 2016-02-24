@@ -1,7 +1,6 @@
 # PS3
 # David Flasterstein
-
-# 1. S3 object system
+# S3 object system
 
 # Function to select door in "Lets Make a Deal"
 # 
